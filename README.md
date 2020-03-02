@@ -1,5 +1,5 @@
 # Data-Splitting-BioHealth-and-Geo-Data
-Different exercises from my Applications of Data Analysis course
+Different exercises from my Applications of Data Analysis course click on a notebook file to view the exercise
 
 **This README will contain a short description of each exercise notebook in this repo.**
 
