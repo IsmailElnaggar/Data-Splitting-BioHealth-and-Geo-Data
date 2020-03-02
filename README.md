@@ -3,7 +3,7 @@ Different exercises from my Applications of Data Analysis course click on a note
 
 **This README will contain a short description of each exercise notebook in this repo.**
 
-**1.  Water permability prediction in forestry**
+**1.  Water permability prediction in forestry using "Exercise 4 data"**
 ----------------
 In this task, the client wants you to estimate the spatial prediction performance of K-nearest neighbor regression model with K=5 (5NN), using spatial leave-one-out cross-validation (i.e. SKCV, with number of folds == number of data points). The client wants you to use the C-index as the performance measure.  
 
@@ -58,7 +58,7 @@ Use K-Nearest Neighbor Regression with euclidean distance to predict total metal
 
 
 
-**4.  Cross-Validation with Symmetric Pair-Input Data**
+**4.  Cross-Validation with Symmetric Pair-Input Data using "Exercise 5 data"**
 ---------------
 Assignment consists of two tasks. In both tasks, use the K-nearest neighbors classifier with K=1 and Euclidean distance for learning and the concordance index for evaluation.
 
